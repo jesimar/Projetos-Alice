@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jesimar/Projetos-Alice/main/view/alice2.jpg">
+  <img src="https://raw.githubusercontent.com/jesimar/Projetos-Alice/main/view/alice2.jpg" width="50" height="50">
 </p>
 
 Este repositório será utilizado para organizar um conjunto de projetos desenvolvidos na ferramenta Alice.
