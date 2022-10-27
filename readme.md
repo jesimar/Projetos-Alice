@@ -56,8 +56,16 @@ A seguir são listados alguns exemplos de projetos utilizando a ferramenta Alice
 
 ## Alguns Vídeos de Projetos em Alice
 
-A seguir tem-se alguns vídeos que ilustram as animações 3D desenvolvidas na ferramenta Alice. Estes vídeos também se encontram dentro da pasta [[`videos`](./videos/)].
+A seguir tem-se alguns vídeos que ilustram as animações 3D desenvolvidas na ferramenta Alice. Estes se encontram dentro da pasta [[`videos`](./videos/)].
 
-* [![](https://img.youtube.com/vi/G5cAW7swQuE/0.jpg)](https://www.youtube.com/watch?v=G5cAW7swQuE)
-* [![](https://img.youtube.com/vi/La8KNkq74ok/0.jpg)](https://www.youtube.com/watch?v=La8KNkq74ok)
-* [![](https://img.youtube.com/vi/IxPij4zKWN8/0.jpg)](https://www.youtube.com/watch?v=IxPij4zKWN8)
+* Vídeo: Apresentação da UFLA
+
+[![](https://img.youtube.com/vi/G5cAW7swQuE/0.jpg)](https://www.youtube.com/watch?v=G5cAW7swQuE)
+
+* Vídeo: Fundo do Mar
+
+[![](https://img.youtube.com/vi/La8KNkq74ok/0.jpg)](https://www.youtube.com/watch?v=La8KNkq74ok)
+
+* Vídeo: Mundo Marinho
+
+[![](https://img.youtube.com/vi/IxPij4zKWN8/0.jpg)](https://www.youtube.com/watch?v=IxPij4zKWN8)
