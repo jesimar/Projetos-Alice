@@ -43,7 +43,7 @@ Este repositório será utilizado para organizar um conjunto de projetos desenvo
 
 ## Exemplos de Alguns Projetos em Alice
 
-A seguir são listados alguns exemplos de projetos utilizando a ferramenta Alice. Estes projetos são encontrados dentro da pasta `projects` ![projects](./projects/).
+A seguir são listados alguns exemplos de projetos utilizando a ferramenta Alice. Estes projetos são encontrados dentro da pasta [[`projects`](./projects/)].
 
 | Nome Arquivo Local                        | Conceitos Trabalhados                                                                                  | Imagem                                          |
 |-------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------|
@@ -56,8 +56,7 @@ A seguir são listados alguns exemplos de projetos utilizando a ferramenta Alice
 
 ## Alguns Vídeos de Projetos em Alice
 
-
-A seguir tem-se alguns vídeos que ilustram as animações 3D desenvolvidas na ferramenta Alice. Estes vídeos também se encontram dentro da pasta ![`videos`](./videos/).
+A seguir tem-se alguns vídeos que ilustram as animações 3D desenvolvidas na ferramenta Alice. Estes vídeos também se encontram dentro da pasta [[`videos`](./videos/)].
 
 * [![](https://img.youtube.com/vi/G5cAW7swQuE/0.jpg)](https://www.youtube.com/watch?v=G5cAW7swQuE)
 * [![](https://img.youtube.com/vi/La8KNkq74ok/0.jpg)](https://www.youtube.com/watch?v=La8KNkq74ok)
