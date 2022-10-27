@@ -43,7 +43,7 @@ Este repositório será utilizado para organizar um conjunto de projetos desenvo
 
 ## Exemplos de Alguns Projetos em Alice
 
-A seguir são listados alguns exemplos de projetos utilizando a ferramenta Alice. 
+A seguir são listados alguns exemplos de projetos utilizando a ferramenta Alice. Estes projetos são encontrados dentro da pasta `projects` ![](./projects/).
 
 | Nome Arquivo Local                        | Conceitos Trabalhados                                                                                  | Imagem                                          |
 |-------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------|
@@ -53,3 +53,16 @@ A seguir são listados alguns exemplos de projetos utilizando a ferramenta Alice
 | project-game.a3p          				| Jogo, interação com personagem através de eventos de teclado, mouse e tempo                            | ![](./view/projects/game-dino.png)              |
 | project-sp-robo.a3p                       | Animação, inserção de objetos, movimentação da câmera                                                  | ![](./view/projects/animation-robo-sp.png)      |
 | project-roteiro-aula-pratica.a3p          | Animação, inserção de objetos e personagens, criação de diálogos, estruturas de controle, propriedades | ![](./view/projects/animation-aula-pratica.png) |
+
+## Alguns Vídeos de Projetos em Alice
+
+
+A seguir tem-se alguns vídeos que ilustram as animações 3D desenvolvidas na ferramenta Alice. Estes vídeos também se encontram dentro da pasta `videos` ![](./videos/).
+
+* https://www.youtube.com/watch?v=G5cAW7swQuE
+* https://www.youtube.com/watch?v=La8KNkq74ok
+* https://www.youtube.com/watch?v=IxPij4zKWN8
+
+* [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/G5cAW7swQuE/0.jpg)](https://www.youtube.com/watch?v=G5cAW7swQuE)
+* [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/La8KNkq74ok/0.jpg)](https://www.youtube.com/watch?v=La8KNkq74ok)
+* [![Animação 3D - Linguagem Alice - Sons Marinhos](https://img.youtube.com/vi/IxPij4zKWN8/0.jpg)](https://www.youtube.com/watch?v=IxPij4zKWN8)
