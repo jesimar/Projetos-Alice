@@ -59,10 +59,6 @@ A seguir são listados alguns exemplos de projetos utilizando a ferramenta Alice
 
 A seguir tem-se alguns vídeos que ilustram as animações 3D desenvolvidas na ferramenta Alice. Estes vídeos também se encontram dentro da pasta `videos` ![](./videos/).
 
-* https://www.youtube.com/watch?v=G5cAW7swQuE
-* https://www.youtube.com/watch?v=La8KNkq74ok
-* https://www.youtube.com/watch?v=IxPij4zKWN8
-
-* [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/G5cAW7swQuE/0.jpg)](https://www.youtube.com/watch?v=G5cAW7swQuE)
-* [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/La8KNkq74ok/0.jpg)](https://www.youtube.com/watch?v=La8KNkq74ok)
-* [![Animação 3D - Linguagem Alice - Sons Marinhos](https://img.youtube.com/vi/IxPij4zKWN8/0.jpg)](https://www.youtube.com/watch?v=IxPij4zKWN8)
+* [![](https://img.youtube.com/vi/G5cAW7swQuE/0.jpg)](https://www.youtube.com/watch?v=G5cAW7swQuE){:target="_blank"}
+* [![](https://img.youtube.com/vi/La8KNkq74ok/0.jpg)](https://www.youtube.com/watch?v=La8KNkq74ok){:target="_blank"}
+* [![](https://img.youtube.com/vi/IxPij4zKWN8/0.jpg)](https://www.youtube.com/watch?v=IxPij4zKWN8){:target="_blank"}
